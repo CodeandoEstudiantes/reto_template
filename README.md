@@ -31,7 +31,9 @@ En este reto...<descripción del reto>
 
 ### SIGUE APRENDIENDO: ###
 
-Sobre <el tema de la lección>:
+
+Sobre **<el tema de la lección>**:
+
   - 
   -
   
